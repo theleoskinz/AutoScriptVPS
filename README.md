@@ -1,5 +1,5 @@
 
-<h1 align="center">VPS Auto Scrptz Okvpn b<img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h1>
+<h1 align="center">VPS Auto Scrptz Okvpn <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h1>
 
 <p align="center">AutoScriptVPS is made to minimize the time consumed and user involvement in setting up your VPS</p>
 <h3 align="center">Supported Linux Distribution</h3>
@@ -28,3 +28,5 @@
 <p align="center">
 wget -O AutoScriptVPS https://git.io/fjU7c && chmod +x AutoScriptVPS && ./AutoScriptVPS
 </p>
+
+สนใจติดต่อ https://www.facebook.com/hitminy.beernity  
